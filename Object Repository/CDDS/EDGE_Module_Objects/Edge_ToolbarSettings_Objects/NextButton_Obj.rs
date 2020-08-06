@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NextButton_Obj</name>
+   <tag></tag>
+   <elementGuidId>160cb635-91b5-4a0c-abcc-65ffd5fcda3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[contains(@src,&quot;buttonActionbarNext.gif&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[contains(@src,&quot;buttonActionbarNext.gif&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

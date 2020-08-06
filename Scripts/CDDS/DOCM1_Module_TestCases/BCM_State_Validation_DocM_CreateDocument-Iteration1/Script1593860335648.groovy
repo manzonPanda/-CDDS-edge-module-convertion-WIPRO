@@ -77,13 +77,13 @@ DriverFactory.changeWebDriver(driver)
 //        'FolderTitle', 1), false)
 //
 //'Wait for BusinessUnit element to be visible'
-//WebUI.waitForElementVisible(findTestObject('CDDS/DOCM1_Module_Objects/Create_Document_Objects/BusinessUnit_Obj'), GlobalVariable.Element_Timeout)
+//WebUI.waitForElementVisible(findTestObject('CDDS/EDGE_Module_Objects/Edge_ToolbarSettings_Objects/Roles_Available_Obj'), GlobalVariable.Element_Timeout)
 //
 //'Wait for Few Seconds'
 //WebUI.delay(GlobalVariable.Short_Wait)
 //
 //'Select a BusinessUnit'
-//WebUI.selectOptionByLabel(findTestObject('CDDS/DOCM1_Module_Objects/Create_Document_Objects/BusinessUnit_Obj'), findTestData(
+//WebUI.selectOptionByLabel(findTestObject('CDDS/EDGE_Module_Objects/Edge_ToolbarSettings_Objects/Roles_Available_Obj'), findTestData(
 //        'CDDS/DOCM1_Module_TestData/Create_Document').getValue('BusinessUnit', 1), false)
 
 //'Wait for image telescope to be visible'
